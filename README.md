@@ -1,1 +1,1 @@
-Final assigments of the IBM Data Science Professional specialization.
+Last course final assignment of the IBM Data Science Professional specialization.
